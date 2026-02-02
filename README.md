@@ -169,21 +169,6 @@ $('#calendar').publicationCalendar({
 });
 ```
 
-## Файлы
-
-- `dist/jquery.publication-calendar.js` - основной файл без комментариев
-- `dist/jquery.publication-calendar.min.js` - минифицированная версия
-- `dist/jquery.publication-calendar.css` - стили без комментариев
-- `dist/jquery.publication-calendar.min.css` - минифицированные стили
-
-## Поддержка браузеров
-
-- Chrome (последние 2 версии)
-- Firefox (последние 2 версии)
-- Safari (последние 2 версии)
-- Edge (последние 2 версии)
-- IE 11
-
 ## Лицензия
 
 MIT
